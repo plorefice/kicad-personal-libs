@@ -1,0 +1,355 @@
+(footprint "OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "5kV 50mA 100mV@1mA,20mA 1 6V 1.2V DC SMD-4P  Transistor, Photovoltaic Output Optoisolators ROHS")
+	(tags "optoisolator smd-4p ")
+	(property "Reference" "REF**"
+		(at 0 -3.2 0)
+		(layer "F.SilkS")
+		(uuid "45dae609-0e01-4dc6-b039-8e371720abd8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
+		(at 0 5.27 0)
+		(layer "F.Fab")
+		(uuid "b0d79267-4dee-4bf8-9380-e2b43fca16e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c1d137fb-3ba1-49ed-84c5-b5e4bf00c014")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10688ed5-d30b-4efc-a614-0363f1031a37")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.4 -2.4)
+		(end -3.4 -2.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e8a8d1b2-775a-4bb0-a2e7-1f7d1ce201fd")
+	)
+	(fp_line
+		(start -3.4 -2.4)
+		(end 3.4 -2.4)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fd58ad8f-adb3-42b5-b4af-b5202d2f688f")
+	)
+	(fp_line
+		(start -3.4 0.4)
+		(end -3.4 -0.375)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "774fad9a-9c5f-4481-b397-8562a60b689c")
+	)
+	(fp_line
+		(start -3.4 2.2)
+		(end -3.4 2.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0167b871-6057-4e9b-9b6a-e2ac7dc07d1b")
+	)
+	(fp_line
+		(start 3.4 -2.4)
+		(end 3.4 -2.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2f50957-ac30-462c-bc7b-4eb9d283520e")
+	)
+	(fp_line
+		(start 3.4 0.3875)
+		(end 3.4 -0.3875)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4be46ac5-40cc-40c0-997c-35eacec253af")
+	)
+	(fp_line
+		(start 3.4 2.2)
+		(end 3.4 2.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0c8a063a-6a30-4523-9bb8-5e9a8e50bbc9")
+	)
+	(fp_line
+		(start 3.4 2.4)
+		(end -3.4 2.4)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1130a837-f515-4879-b5f2-ab602108b1ac")
+	)
+	(fp_circle
+		(center -4 -2.8)
+		(end -3.85 -2.8)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b567103b-e446-4c08-bf6f-5787c6239700")
+	)
+	(fp_circle
+		(center -4.57 -1.27)
+		(end -4.27 -1.27)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "dd31479e-4514-4e1f-90aa-05cbf7fa2013")
+	)
+	(fp_line
+		(start -5.7 -2.2)
+		(end -3.6 -2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "85cc2202-190c-4a18-ae43-4a66ec3ec370")
+	)
+	(fp_line
+		(start -5.7 2.2)
+		(end -5.7 -2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5f5486c9-ec92-41a3-bc6c-9a5551f688de")
+	)
+	(fp_line
+		(start -3.6 -2.6)
+		(end 3.6 -2.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "90a725b6-d116-4482-9e6f-44582be01ba4")
+	)
+	(fp_line
+		(start -3.6 -2.2)
+		(end -3.6 -2.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "b9766155-72bd-4f2c-b18c-e10a3461c62d")
+	)
+	(fp_line
+		(start -3.6 2.2)
+		(end -5.7 2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "977720df-d042-41d9-88b2-0aff873cc296")
+	)
+	(fp_line
+		(start -3.6 2.6)
+		(end -3.6 2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "56fcc3d4-6d4e-452b-afcc-3a9d422a16c6")
+	)
+	(fp_line
+		(start 3.6 -2.6)
+		(end 3.6 -2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e28686a-256d-4a0a-893a-3f23726ac938")
+	)
+	(fp_line
+		(start 3.6 -2.2)
+		(end 5.7 -2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "6f380ec9-95da-4a38-baf0-e95036bb57eb")
+	)
+	(fp_line
+		(start 3.6 2.2)
+		(end 3.6 2.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "43f605e0-f9ba-4ab2-b637-97f6de21685d")
+	)
+	(fp_line
+		(start 3.6 2.6)
+		(end -3.6 2.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a9cb2ad7-72d6-45f4-9942-ee5000f14a7b")
+	)
+	(fp_line
+		(start 5.7 -2.2)
+		(end 5.7 2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "eeba1358-7306-4c51-a691-3091c5cee3e5")
+	)
+	(fp_line
+		(start 5.7 2.2)
+		(end 3.6 2.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "8b38a485-ce11-45c9-bb36-f6b4b1995be8")
+	)
+	(fp_line
+		(start -3.3 -1.7)
+		(end -2.8 -1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ba1d4946-f6d1-473b-9a14-9c9969efd8f0")
+	)
+	(fp_line
+		(start -2.8 -1.3)
+		(end -3.3 -0.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9db1d1c9-b6b3-4ec0-82c0-9097da163739")
+	)
+	(fp_rect
+		(start -3.3 -2.3)
+		(end 3.3 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f1aa5f5b-113b-46c1-bf56-3efb5c39806a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "674954e5-3aea-41c0-9182-a397bee88380")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.3 -1.27 90)
+		(size 1.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2d776cb0-79c9-4dcc-a559-5ce57e266aa0")
+	)
+	(pad "2" smd rect
+		(at -4.3 1.27 90)
+		(size 1.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e316ff9a-201c-4720-9aff-c52bad262882")
+	)
+	(pad "3" smd rect
+		(at 4.3 1.27 90)
+		(size 1.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "eb98f94a-6b39-4319-a32d-4b1400b6f8a1")
+	)
+	(pad "4" smd rect
+		(at 4.3 -1.27 90)
+		(size 1.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0e1345bb-7ba3-4e5e-990d-91711854e950")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_3RD_PARTY}/EasyEDA.3dshapes/OPTO-SMD-4_L4.6-W6.5-H3.6-LS10.2-P2.54.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,282 @@
+(footprint "FUSE-TH_L14.0-W3.0-P10.20-D1.2-S1.2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "30V 5A 40A 10A Plugin Resettable Fuses ROHS")
+	(tags "lcsc, fuse, 5A, 30V, C369108")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "d91c7aba-a659-485a-ac05-d3bda6041d73")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "FUSE-TH_L14.0-W3.0-P10.20-D1.2-S1.2"
+		(at 0 2.8 0)
+		(layer "F.Fab")
+		(uuid "62ac4cae-9062-486c-a6b6-b3513a38787a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a438e234-327c-4819-bbf6-db53c3a416be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1374a91e-35c8-4655-a9a3-52d91cb50897")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C369108"
+		(at 0 0 0)
+		(layer "User.1")
+		(hide yes)
+		(uuid "be349745-159e-4261-9229-4a198503a097")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7 -1.5)
+		(end -7 1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9407a642-3ef4-4919-9656-26b71a1b56be")
+	)
+	(fp_line
+		(start -7 -1.5)
+		(end -5.7 -1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2a6d8feb-6ed2-45f8-8e3c-ea6b7940186d")
+	)
+	(fp_line
+		(start -7 1.5)
+		(end 4.11 1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5aa9e9c-48a6-4453-a9b0-f1c3a86c325f")
+	)
+	(fp_line
+		(start -6.09 -1.5)
+		(end -7 -1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "871b213d-caf9-40ca-b96d-38d748e63ff0")
+	)
+	(fp_line
+		(start -4.5 -1.5)
+		(end 0.11 -1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8764dfc-b915-4b9e-b635-38c0da5f277d")
+	)
+	(fp_line
+		(start -2.7 0)
+		(end -4.2 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d6599e93-36ea-4adb-bf12-e1e0ffd837ce")
+	)
+	(fp_line
+		(start 2.7 0)
+		(end 4.2 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7749fc34-74c6-478a-8f41-8e25dbc2a4bf")
+	)
+	(fp_line
+		(start 2.85 1.5)
+		(end 4.5 1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2a4bd2ec-2048-41ca-a3f0-668e1c78e0e3")
+	)
+	(fp_line
+		(start 5.7 1.5)
+		(end 6.61 1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c7e1863e-da6b-4649-9634-a8e9cd66c65f")
+	)
+	(fp_line
+		(start 6.09 1.5)
+		(end 7 1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "89bb2a41-aa20-4e35-bb23-0b948e1b75aa")
+	)
+	(fp_line
+		(start 7 -1.5)
+		(end -4.11 -1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a7656685-6c1c-453b-a531-f6c40c76aa91")
+	)
+	(fp_line
+		(start 7 1.5)
+		(end 7 -1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6accd5f3-adca-4139-9574-0e05387aeb2e")
+	)
+	(fp_arc
+		(start -2.7 0)
+		(mid -1.35 -1.35)
+		(end 0 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b7525216-996c-4b25-aaf7-315d35e58753")
+	)
+	(fp_arc
+		(start 2.7 0)
+		(mid 1.35 1.35)
+		(end 0 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "10c05951-d4d7-42eb-b806-f92eef6b744a")
+	)
+	(fp_rect
+		(start -7.3 -1.8)
+		(end 7.4 1.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2136a37b-094d-4e17-9cb1-53e9cffa1010")
+	)
+	(fp_rect
+		(start -6.8 -1.3)
+		(end 6.8 1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "4893c487-fb1e-4e3f-89a6-bb59ce94143c")
+	)
+	(fp_poly
+		(pts
+			(xy -5.5 -1.3) (xy -5.1 -0.8) (xy -4.7 -1.3)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "c55608b8-3128-4cea-9bf3-21d1efae4681")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "4c04d7c0-ab6f-489a-bb49-afcc54b61a70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -5.1 -0.6)
+		(size 1.6 1.6)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "73c770be-21df-4d3c-8262-fc2fc751274d")
+	)
+	(pad "2" thru_hole circle
+		(at 5.1 0.6)
+		(size 1.6 1.6)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5ddade2a-df98-4e0a-8be5-842e14a6423d")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_3RD_PARTY}/EasyEDA.3dshapes/FUSE-TH_L14.0-W3.0-H24.9-P10.20-D0.8-S1.2.wrl"
+		(offset
+			(xyz 0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
