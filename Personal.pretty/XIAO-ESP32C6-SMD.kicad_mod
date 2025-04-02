@@ -436,4 +436,15 @@
 		(uuid "313edcfe-ad25-4ea7-b786-d8290dfb479a")
 	)
 	(embedded_fonts no)
+	(model "${KICAD9_3RD_PARTY}/Personal.3dshapes/Seeed Studio XIAO ESP32-C6.step"
+		(offset
+			(xyz 5.9 -1.75 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
 )
