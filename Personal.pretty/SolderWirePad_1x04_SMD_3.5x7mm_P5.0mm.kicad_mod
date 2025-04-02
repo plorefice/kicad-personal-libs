@@ -1,0 +1,133 @@
+(footprint "SolderWirePad_1x04_SMD_3.5x7mm_P5.0mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Wire Pad, Square, SMD Pad,  3.5mm x 7mm,")
+	(tags "MesurementPoint Square SMDPad 3.5mmx7mm ")
+	(property "Reference" "REF**"
+		(at 0 -5 0)
+		(layer "F.SilkS")
+		(uuid "0b5b934b-e2e5-4d7c-84d7-cb2953590803")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SolderWirePad_1x04_SMD_3.5x7mm_P5.0mm"
+		(at 0 5.25 0)
+		(layer "F.Fab")
+		(uuid "824c6a8f-261f-49b3-829e-fb80ff68ebc4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2726cd52-e400-4898-81cc-18f88ec2ffd8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ad3409b-c931-460b-a4aa-849af4fde4ba")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -9.75 -4)
+		(end -9.75 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "74f48e08-3d45-4d74-887d-0e5e40d502e5")
+	)
+	(fp_line
+		(start -9.75 4)
+		(end 9.75 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "89d11e3b-27cf-4d52-8604-94f751b723ba")
+	)
+	(fp_line
+		(start 9.75 -4)
+		(end -9.75 -4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b96c1c6a-734e-4d20-b716-ed1eea73d88c")
+	)
+	(fp_line
+		(start 9.75 4)
+		(end 9.75 -4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6092f642-35a4-4cc2-9810-262b82e11180")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "bd0b6983-efe8-4cb3-8818-474e587b95a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -7.5 0)
+		(size 3.5 7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e59a5f35-cbf6-4692-811b-2e7a59a075b3")
+	)
+	(pad "2" smd rect
+		(at -2.5 0)
+		(size 3.5 7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a863d27f-858e-43f3-9f44-2ded4d3b90cf")
+	)
+	(pad "3" smd rect
+		(at 2.5 0)
+		(size 3.5 7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "539a99df-5af5-42a5-9ea1-da7cd9e5f405")
+	)
+	(pad "4" smd rect
+		(at 7.5 0)
+		(size 3.5 7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0d7ca567-f8f5-4822-a1ee-b5023f3c6631")
+	)
+	(embedded_fonts no)
+)
